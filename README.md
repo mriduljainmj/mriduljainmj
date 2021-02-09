@@ -6,7 +6,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything on <a href="workformj@gmail.com"></a> 
+Ask me anything by clicking <a href="workformj@gmail.com">here.</a> 
 
 <i>Happy Coding!</i> 😊
 
